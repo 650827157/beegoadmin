@@ -1,4 +1,21 @@
 
-#QQ 650827157
+# QQ 650827157
 
 beegoadmin.exe
+
+
+#-----------------------------------------------------------------------------
+# git checkout -b chaofei origin/chaofei
+# 
+# D:\rd\gopath\src\github.com\650827157\beegoadmin>git branch -a
+# * chaofei
+#   master
+#   remotes/origin/HEAD -> origin/master
+#   remotes/origin/chaofei
+#   remotes/origin/master
+# 
+# D:\rd\gopath\src\github.com\650827157\beegoadmin>git checkout -b chaofei origin/chaofei
+# Switched to a new branch 'chaofei'
+# Branch 'chaofei' set up to track remote branch 'chaofei' from 'origin'.
+# 
+#-----------------------------------------------------------------------------
