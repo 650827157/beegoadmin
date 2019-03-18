@@ -1,0 +1,2 @@
+# beegoadmin
+beego + admin
